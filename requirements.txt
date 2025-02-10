@@ -1,0 +1,8 @@
+ 
+python-dotenv
+transformers
+openai
+langchain-community
+torch
+streamlit
+tiktoken
